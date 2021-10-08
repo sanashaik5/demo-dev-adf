@@ -1,0 +1,9 @@
+{
+	"name": "adf-ilgdemo-dev-001",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bcd95f1-66fc-47d0-8bf0-9dc62915745c",
+		"tenantId": "18c3b4f7-e526-4f98-939a-19118361cac0"
+	}
+}
